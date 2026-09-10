@@ -58,6 +58,7 @@
 
 | 项目 | 简介 | ⭐ Star | 语言 |
 |:---|:---|---:|:---|
+|**[小米遥控器竟然是Vibe Coding神器](https://www.bilibili.com/video/BV1FFYp6jEFf/)** |60块的小米遥控器竟然是Vibe Coding神器|666|TypeScript|
 | **[cline/cline](https://github.com/cline/cline)** | 自主编码 Agent，可作为 SDK、IDE 插件或 CLI 使用，能读文件、跑命令、改代码。 | 67.7k | TypeScript |
 | **[continuedev/continue](https://github.com/continuedev/continue)** | 开源编码 Agent，支持 VS Code / JetBrains，可接任意模型。 | 35.9k | TypeScript |
 | **[TabbyML/tabby](https://github.com/TabbyML/tabby)** | 可自托管的 AI 编码助手，主打隐私与本地部署。 | 33.9k | Rust |
