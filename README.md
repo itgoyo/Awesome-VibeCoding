@@ -3,7 +3,7 @@
 > 一份精选的 Vibe Coding（氛围编程）开源项目合集 —— 从 AI 编码助手、Agent 框架、MCP 生态，
 > 到 **AI 硬件 / 边缘 AI / 机器人**，全部收录 **Star ≥ 100** 的项目，按分类与 Star 数排序。
 
-![repos](https://img.shields.io/badge/收录项目-283-blue) ![stars](https://img.shields.io/badge/累计Star-8.4M-orange) ![license](https://img.shields.io/badge/license-CC0--1.0-lightgrey) ![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen)
+![repos](https://img.shields.io/badge/收录项目-284-blue) ![stars](https://img.shields.io/badge/累计Star-8.4M-orange) ![license](https://img.shields.io/badge/license-CC0--1.0-lightgrey) ![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen)
 
 ---
 
@@ -26,6 +26,7 @@
 - 数据通过 GitHub API 自动采集，采集脚本见 [`scripts/collect.py`](scripts/collect.py)，原始数据见 [`data/repos.json`](data/repos.json)。
 
 > 数据快照时间：**2026-09-10**。Star 数会随时间变化，欢迎提交 PR 更新。
+> agent-qa 为新增条目，元数据核验于 **2026-10-26**；其余条目沿用原快照。
 
 ---
 
@@ -38,7 +39,7 @@
 - [🧩 Agent 框架与多智能体编排](#agent-框架与多智能体编排) — 24 个项目
 - [🔌 MCP 生态 Model Context Protocol](#mcp-生态-model-context-protocol) — 29 个项目
 - [🧠 上下文工程 规范驱动 Skills 与记忆](#上下文工程-规范驱动-skills-与记忆) — 31 个项目
-- [🔍 代码审查 测试与安全](#代码审查-测试与安全) — 12 个项目
+- [🔍 代码审查 测试与安全](#代码审查-测试与安全) — 13 个项目
 - [🎨 AI 设计与 UI 生成](#ai-设计与-ui-生成) — 12 个项目
 - [🔧 硬件 边缘 AI 与机器人](#硬件-边缘-ai-与机器人) — 51 个项目
 - [⚙️ 本地模型与自托管](#本地模型与自托管) — 19 个项目
@@ -315,9 +316,10 @@
 | **[0xSteph/pentest-ai](https://github.com/0xSteph/pentest-ai)** | 开源 AI 渗透测试，用机器预言机证明每个发现。 | 1.7k | Python |
 | **[mukul975/cve-mcp-server](https://github.com/mukul975/cve-mcp-server)** | 给 Claude 提供 27 个安全情报工具的 MCP 服务器。 | 1.5k | Python |
 | **[mrphrazer/reverser_ai](https://github.com/mrphrazer/reverser_ai)** | 用 AI 提供自动化逆向工程辅助。 | 1.1k | Python |
+| **[vostride/agent-qa](https://github.com/vostride/agent-qa)** | Web、Android 和 iOS 自然语言测试，持久记忆引擎复用经验，自我改进经验证后保留新知识。 [官网](https://vostride.com) | 894 | TypeScript |
 | **[Tzohar/PassLLM](https://github.com/Tzohar/PassLLM)** | AI 密码猜测工具（PyTorch 实现）。 | 117 | Python |
 
-<sub>共 12 个项目 · [回到目录](#目录)</sub>
+<sub>共 13 个项目 · [回到目录](#目录)</sub>
 
 ---
 
@@ -501,12 +503,12 @@
 | 🧩 Agent 框架与多智能体编排 | 24 | 146k (langchain-ai/langchain) |
 | 🔌 MCP 生态 Model Context Protocol | 29 | 94.7k (punkpeye/awesome-mcp-servers) |
 | 🧠 上下文工程 规范驱动 Skills 与记忆 | 31 | 258k (mattpocock/skills) |
-| 🔍 代码审查 测试与安全 | 12 | 47.9k (KeygraphHQ/shannon) |
+| 🔍 代码审查 测试与安全 | 13 | 47.9k (KeygraphHQ/shannon) |
 | 🎨 AI 设计与 UI 生成 | 12 | 115k (VoltAgent/awesome-design-md) |
 | 🔧 硬件 边缘 AI 与机器人 | 51 | 29.8k (78/xiaozhi-esp32) |
 | ⚙️ 本地模型与自托管 | 19 | 181k (ollama/ollama) |
 | 📚 学习资源 教程与 Awesome 列表 | 35 | 170k (f/prompts.chat) |
-| **合计** | **283** | **8.4M 累计 Star** |
+| **合计** | **284** | **8.4M 累计 Star** |
 
 ### Star 数 Top 20
 

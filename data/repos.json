@@ -2,8 +2,8 @@
  "generated_at": "2026-09-10",
  "source": "GitHub Search API",
  "criteria": "star >= 100, vibecoding-related",
- "total_repos": 283,
- "total_stars": 8426726,
+ "total_repos": 284,
+ "total_stars": 8427620,
  "categories": [
   {
    "key": "assistant",
@@ -2061,6 +2061,18 @@
      "homepage": "",
      "pushed_at": "2026-05-20",
      "created_at": "2024-03-17"
+    },
+    {
+     "full_name": "vostride/agent-qa",
+     "url": "https://github.com/vostride/agent-qa",
+     "desc": "Web、Android 和 iOS 自然语言测试，持久记忆引擎复用经验，自我改进经验证后保留新知识。",
+     "desc_en": "Natural-language Web, Android, and iOS testing with persistent memory and validated self-improvement.",
+     "stars": 894,
+     "language": "TypeScript",
+     "license": "FSL-1.1-ALv2",
+     "homepage": "https://vostride.com",
+     "pushed_at": "2026-10-24",
+     "created_at": "2026-05-07"
     },
     {
      "full_name": "Tzohar/PassLLM",
